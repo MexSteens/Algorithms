@@ -1,0 +1,16 @@
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/ContainerVervoerV3/bin/Debug/net5.0/ContainerVervoerV3
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/ContainerVervoerV3/bin/Debug/net5.0/ContainerVervoerV3.deps.json
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/ContainerVervoerV3/bin/Debug/net5.0/ContainerVervoerV3.runtimeconfig.json
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/ContainerVervoerV3/bin/Debug/net5.0/ContainerVervoerV3.runtimeconfig.dev.json
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/ContainerVervoerV3/bin/Debug/net5.0/ContainerVervoerV3.dll
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/ContainerVervoerV3/bin/Debug/net5.0/ContainerVervoerV3.pdb
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/ContainerVervoerV3/obj/Debug/net5.0/ContainerVervoerV3.csproj.AssemblyReference.cache
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/ContainerVervoerV3/obj/Debug/net5.0/ContainerVervoerV3.GeneratedMSBuildEditorConfig.editorconfig
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/ContainerVervoerV3/obj/Debug/net5.0/ContainerVervoerV3.AssemblyInfoInputs.cache
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/ContainerVervoerV3/obj/Debug/net5.0/ContainerVervoerV3.AssemblyInfo.cs
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/ContainerVervoerV3/obj/Debug/net5.0/ContainerVervoerV3.csproj.CoreCompileInputs.cache
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/ContainerVervoerV3/obj/Debug/net5.0/ContainerVervoerV3.dll
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/ContainerVervoerV3/obj/Debug/net5.0/refint/ContainerVervoerV3.dll
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/ContainerVervoerV3/obj/Debug/net5.0/ContainerVervoerV3.pdb
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/ContainerVervoerV3/obj/Debug/net5.0/ContainerVervoerV3.genruntimeconfig.cache
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/ContainerVervoerV3/obj/Debug/net5.0/ref/ContainerVervoerV3.dll

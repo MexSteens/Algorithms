@@ -1,0 +1,16 @@
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/CircustreinVerbeterd/bin/Debug/net5.0/CircustreinVerbeterd
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/CircustreinVerbeterd/bin/Debug/net5.0/CircustreinVerbeterd.deps.json
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/CircustreinVerbeterd/bin/Debug/net5.0/CircustreinVerbeterd.runtimeconfig.json
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/CircustreinVerbeterd/bin/Debug/net5.0/CircustreinVerbeterd.runtimeconfig.dev.json
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/CircustreinVerbeterd/bin/Debug/net5.0/CircustreinVerbeterd.dll
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/CircustreinVerbeterd/bin/Debug/net5.0/CircustreinVerbeterd.pdb
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/CircustreinVerbeterd/obj/Debug/net5.0/CircustreinVerbeterd.csproj.AssemblyReference.cache
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/CircustreinVerbeterd/obj/Debug/net5.0/CircustreinVerbeterd.GeneratedMSBuildEditorConfig.editorconfig
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/CircustreinVerbeterd/obj/Debug/net5.0/CircustreinVerbeterd.AssemblyInfoInputs.cache
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/CircustreinVerbeterd/obj/Debug/net5.0/CircustreinVerbeterd.AssemblyInfo.cs
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/CircustreinVerbeterd/obj/Debug/net5.0/CircustreinVerbeterd.csproj.CoreCompileInputs.cache
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/CircustreinVerbeterd/obj/Debug/net5.0/CircustreinVerbeterd.dll
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/CircustreinVerbeterd/obj/Debug/net5.0/refint/CircustreinVerbeterd.dll
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/CircustreinVerbeterd/obj/Debug/net5.0/CircustreinVerbeterd.pdb
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/CircustreinVerbeterd/obj/Debug/net5.0/CircustreinVerbeterd.genruntimeconfig.cache
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/CircustreinVerbeterd/obj/Debug/net5.0/ref/CircustreinVerbeterd.dll
