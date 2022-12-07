@@ -1,0 +1,37 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/home/mex/.cache/JetBrains/Rider2022.1/resharper-host/temp/Rider/vAny/CoverageData/_Solution1.-1488609387/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=068813ae_002Dc9ef_002D401b_002Dbebe_002D1319793a1643/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTest1 #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::17FE04EC-4AD5-4962-BD71-3037B409CF30::net5.0::ContainerVervoerV3UnitTests.RowUnitTest.MaakRows_MaakDeJuisteHoeveelheidStacks_ReturnTrue&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::17FE04EC-4AD5-4962-BD71-3037B409CF30::net5.0::ContainerVervoerV3UnitTests.SchipUnitTest.PlaceContainers_CheckIfAllContainersGetPlaced_ReturnTrue&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::17FE04EC-4AD5-4962-BD71-3037B409CF30::net5.0::ContainerVervoerV3UnitTests.RowUnitTest.PlaatsContainer_PlaatsContainer_ReturnTrue&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3d5247d8_002De57f_002D4abc_002D9af5_002Defc0db021d35/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestMethod1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::8DDFBFF3-3AD9-4970-9491-4326A593D632::net5.0::CircustreinVerbeterdUT.UnitTest1&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::17FE04EC-4AD5-4962-BD71-3037B409CF30::net5.0::ContainerVervoerV3UnitTests.UnitTest1.MaakRows_MaakDeJuisteHoeveelheidRows_ReturnTrue&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::17FE04EC-4AD5-4962-BD71-3037B409CF30::net5.0::ContainerVervoerV3UnitTests.UnitTest1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6080a2a7_002Dd71a_002D4417_002D8467_002D4d314b44497d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PlaatsContainer_PlaatsContainer_ReturnTrue #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6c5e5772_002D290a_002D4096_002D9d6e_002D81aa1d7300bc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTest1 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::17FE04EC-4AD5-4962-BD71-3037B409CF30::net5.0::ContainerVervoerV3UnitTests.UnitTest1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=84e5de5c_002D11e0_002D474d_002Da2a3_002Dcd6af4195144/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PlaatsContainer_PlaatsContainer_ReturnTrue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::17FE04EC-4AD5-4962-BD71-3037B409CF30::net5.0::ContainerVervoerV3UnitTests.SchipUnitTest.PlaatsContainer_PlaatsContainer_ReturnTrue&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8aef3587_002D3253_002D4992_002Da7cc_002D7c35703864c8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::17FE04EC-4AD5-4962-BD71-3037B409CF30::net5.0::ContainerVervoerV3UnitTests.RowUnitTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b4621065_002D3e26_002D43d5_002D9863_002D5e9feae3a8b1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UnitTest1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

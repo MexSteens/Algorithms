@@ -1,0 +1,16 @@
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/Wetenschappers/bin/Debug/net5.0/Wetenschappers
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/Wetenschappers/bin/Debug/net5.0/Wetenschappers.deps.json
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/Wetenschappers/bin/Debug/net5.0/Wetenschappers.runtimeconfig.json
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/Wetenschappers/bin/Debug/net5.0/Wetenschappers.runtimeconfig.dev.json
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/Wetenschappers/bin/Debug/net5.0/Wetenschappers.dll
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/Wetenschappers/bin/Debug/net5.0/Wetenschappers.pdb
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/Wetenschappers/obj/Debug/net5.0/Wetenschappers.csproj.AssemblyReference.cache
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/Wetenschappers/obj/Debug/net5.0/Wetenschappers.GeneratedMSBuildEditorConfig.editorconfig
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/Wetenschappers/obj/Debug/net5.0/Wetenschappers.AssemblyInfoInputs.cache
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/Wetenschappers/obj/Debug/net5.0/Wetenschappers.AssemblyInfo.cs
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/Wetenschappers/obj/Debug/net5.0/Wetenschappers.csproj.CoreCompileInputs.cache
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/Wetenschappers/obj/Debug/net5.0/Wetenschappers.dll
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/Wetenschappers/obj/Debug/net5.0/refint/Wetenschappers.dll
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/Wetenschappers/obj/Debug/net5.0/Wetenschappers.pdb
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/Wetenschappers/obj/Debug/net5.0/Wetenschappers.genruntimeconfig.cache
+/home/mex/Desktop/School/School/ICT & Software/GitAlgo/algoritmiek-s2/Solution1/Wetenschappers/obj/Debug/net5.0/ref/Wetenschappers.dll
